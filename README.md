@@ -34,7 +34,6 @@ Ensure that the spin.gif file is located in the same directory as the weatherAPP
 
 # File Structure
 weather-app/
-│
 ├── README.md
 ├── box.png
 ├── logoicon.png
@@ -42,4 +41,5 @@ weather-app/
 ├── search_icon.png
 ├── spin.gif
 └── weatherAPP.py
+
 
