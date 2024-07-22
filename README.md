@@ -32,15 +32,5 @@ Loading Animation
 
 Ensure that the spin.gif file is located in the same directory as the weatherAPP.py file.
 
-# File Structure
-weather-app/
-│
-├── README.md
-├── box.png
-├── logoicon.png
-├── search.png
-├── search_icon.png
-├── spin.gif
-└── weatherAPP.py
 
 
